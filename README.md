@@ -1,11 +1,36 @@
-# Start your own "Can of Books" App
+# Can of Books
 
-This repository has starter code to begin work on creating your own online bookshelf.
+**Author: Michael Kancov**
 
-## What can books do?
+## Overview
 
-Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. Build out this code base to create an web app to track what books have impacted you, and what's recommended to read next.
+This application will give the user different books that I have enjoyed enough to say that they changed the way I think.
 
-## Use this template
+## Getting started
 
-Clone this repo to your own account with the green "Use this template" button. Then, add any collaborators. Now you are ready to start adding features! Deploy your site to let the world know which books have had the greatest impact on you, and what's recommended. Enjoy!
+The user needs to followw the steps listed on the trello board thatw as provided to us to get the app running. 
+
+## Architecture
+
+I am using Javascript and the public library that I got from the provided template as of right now.
+
+## Change log
+
+10/3/22 2:35 PM - Application has a ReadMe
+
+## Estimates
+
+Name of feature: 
+
+Estimate of time needed to complete: 
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
+
+## Credit and Collaborations
+
+
+
