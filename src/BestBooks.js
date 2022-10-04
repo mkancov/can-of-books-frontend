@@ -41,7 +41,9 @@ class BestBooks extends React.Component {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://via.placeholder.com/800x400"
+          src="https://48b6yd3iigex2rv7g41h5sts-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/silentpantientonwhite-768x512.jpg"
+          width = {200}
+          height = {400}
           alt="First slide"
         />
         <Carousel.Caption>
@@ -52,7 +54,9 @@ class BestBooks extends React.Component {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://via.placeholder.com/800x400"
+          src="https://eadn-wc04-140808.nxedge.io/wp-content/uploads/2020/06/The-Growth-Mindset-a-Guide-to-Professional-and-Personal-Growth-Set-Your-Personal-and-Professional-Growth-Goals-The-Art-of-Growth-Book-1.jpeg"
+          width = {200}
+          height = {400}
           alt="Second slide"
         />
 
@@ -64,7 +68,9 @@ class BestBooks extends React.Component {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://via.placeholder.com/800x400"
+          src="https://covers.openlibrary.org/b/id/11041760-L.jpg"
+          width = {200}
+          height = {400}
           alt="Third slide"
         />
 
@@ -85,7 +91,7 @@ class BestBooks extends React.Component {
               <div key={idx}>
                 <h3>{book.title}</h3>
                 <p>{book.description}</p>
-                <p>{book.status}</p>
+                <p>{book.status}</p> 
               </div>
             ))}
           </container>
